@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/",
+      "name": "Blank WP Theme",
+      "file_exclude_patterns":[
+            "._*",
+            "*.ico",
+            "*.swf",
+            "*.png",
+            "*.sublime-project",
+            ".gitignore",
+            "CHANGELOG.md",
+            "LICENSE.md"
+         ],
+         "folder_exclude_patterns": [
+            "img",
+            "fonts",
+            "languages"
+         ]
+		}
+	]
+}
