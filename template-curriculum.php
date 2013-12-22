@@ -10,31 +10,91 @@ get_header(); ?>
 		<h1><?php the_title(); ?></h1>
 	
     <?php 
-    // get the meta
+    // get the global meta
     global $curriculum_mb;
-    $meta = $curriculum_mb->the_meta();
+    global $courses_mb;
 
+    // get the meta for the current curriculum page
+    $meta = $curriculum_mb->the_meta();
+    ?>
+    
+    <h2>Core Courses</h2>
+    <?php // loop the core courses
     foreach ($meta['core_courses'] as $course)
     {
-      $name = $course['course'];
+      $course_name = $course['course'];
 
       $args = array(
           'post_type' => 'courses',
-          'name'      => $name,
+          'name'      => $course_name,
         );
 
-        $category_posts = new WP_Query($args);
+        $courses = new WP_Query($args);
 
-        if($category_posts->have_posts()) : 
-          while($category_posts->have_posts()) : 
-            $category_posts->the_post();
+        if($courses->have_posts()) : 
+          while($courses->have_posts()) : 
+            $courses->the_post();
               
-              the_title( '<h3>', '</h3>' );
+              //get the meta
+              $meta = $courses_mb->the_meta();
+
+              // variables from the course_meta
+              $title        = get_the_title();
+              $number       = $meta['number'];
+              $credits      = $meta['credits'];
+              $description  = $meta['description'];
+
+              echo do_shortcode( '[courses title="' . $title . '" number="' . $number . '" credits="' . $credits . '"]' . $description . '[/courses]' );      
 
           endwhile;
         endif;
-    }
+        wp_reset_postdata(); //reset the post
+    } // end forearch
+    ?>
 
+    <div style="clear: both;"></div>
+
+    <?php 
+    // get the global meta
+    global $curriculum_mb;
+    global $courses_mb;
+
+    // get the meta for the current curriculum page
+    $meta = $curriculum_mb->the_meta();
+    ?>
+
+    <h2>Elective Courses</h2>
+    <?php // loop the core courses
+    foreach ($meta['elective_courses'] as $course)
+    {
+      $course_name = $course['elective_courses'];
+
+      $args = array(
+          'post_type' => 'courses',
+          'name'      => $course_name,
+        );
+
+        $courses = new WP_Query($args);
+
+        if($courses->have_posts()) : 
+          while($courses->have_posts()) : 
+            $courses->the_post();
+              
+              //get the meta
+              $meta = $courses_mb->the_meta();
+
+              // variables from the course_meta
+              $title        = get_the_title();
+              $number       = $meta['number'];
+              $credits      = $meta['credits'];
+              $description  = $meta['description'];
+
+              echo do_shortcode( '[courses title="' . $title . '" number="' . $number . '" credits="' . $credits . '"]' . $description . '[/courses]' );      
+
+          endwhile;
+        endif;
+        wp_reset_postdata();
+    } // end forearch
     ?>
  
   </section>

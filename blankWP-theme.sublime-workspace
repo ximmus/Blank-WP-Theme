@@ -1,0 +1,901 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curr",
+				"curriculum"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"cou",
+				"course-description-open"
+			],
+			[
+				"course",
+				"course-description"
+			],
+			[
+				"cour",
+				"course-description"
+			],
+			[
+				"Curr",
+				"Curriculum"
+			],
+			[
+				"curri",
+				"curriuculum_post"
+			],
+			[
+				"color-su",
+				"color-supportive"
+			],
+			[
+				"color",
+				"color-main"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"sub",
+				"subcontentColumns"
+			],
+			[
+				"include",
+				"include_once"
+			],
+			[
+				"launch",
+				"launch-nav"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"fon",
+				"font-variant"
+			],
+			[
+				"search",
+				"searchform"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"seac",
+				"search_submit"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"max-",
+				"max-width:   (property)"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"last",
+				"last-of-type  (pseudo-class)"
+			],
+			[
+				"af",
+				"after  (pseudo-class)"
+			],
+			[
+				"site",
+				"siteinfo"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"so",
+				"social_nav"
+			],
+			[
+				"ma",
+				"margin-top:   (property)"
+			],
+			[
+				"pull",
+				"pull_down"
+			],
+			[
+				"background-",
+				"background-color:   (property)"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"s",
+				"sans-serif  (value)"
+			],
+			[
+				"st",
+				"styled_select"
+			],
+			[
+				"las",
+				"last-child"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"a",
+				"both  (value)"
+			],
+			[
+				"list-style",
+				"list-style-image"
+			],
+			[
+				"rep",
+				"no-repeat"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"l",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"padding-",
+				"padding-left:   (property)"
+			],
+			[
+				"f",
+				"first-child  (pseudo-class)"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"word-",
+				"word-spacing:   (property)"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"webkit-box-s",
+				"-webkit-box-sizing:   (property)"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"webkit-tr",
+				"-webkit-transition:   (property)"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"all",
+				"small-caps"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"box-s",
+				"box-sizing:   (property)"
+			],
+			[
+				"get",
+				"getPopContent"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"ff",
+				"ff0000"
+			],
+			[
+				"after",
+				"after_title"
+			],
+			[
+				"befor",
+				"before_title"
+			],
+			[
+				"before",
+				"before_widget"
+			],
+			[
+				"regiser",
+				"register_sidebar"
+			],
+			[
+				"example",
+				"example-widget"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"short",
+				"shortcodes"
+			],
+			[
+				"icon",
+				"iconBox-header"
+			],
+			[
+				"add_",
+				"add_action"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"qu",
+				"quote"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"data",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			],
+			[
+				"swapCase",
+				"Convert Case: Swap Case"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ope",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"openInBrowser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ximmus/Desktop/curriculum-meta.php",
+		"/Users/ximmus/Desktop/template-curriculum.php",
+		"/Users/ximmus/Desktop/desktop.sublime-project",
+		"/Users/ximmus/Desktop/template-full-width.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/themes/blank/template-curriculum.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/courses/metaboxes/curriculum-spec.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/courses/metaboxes/curriculum-meta.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/courses/courses.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/courses/javascripts/curriculum-script.js",
+		"/Users/ximmus/Sites/wordpress/wp-content/themes/blank/curriculum-page.php",
+		"/Users/ximmus/Desktop/curriculum-spec.php",
+		"/Users/ximmus/Desktop/library_slider/slider.php",
+		"/Users/ximmus/Desktop/library_slider/style.css",
+		"/Users/ximmus/Desktop/floatbox/style.css",
+		"/Users/ximmus/Desktop/common.css",
+		"/Users/ximmus/Desktop/library-style.css",
+		"/Users/ximmus/Desktop/test-functions.php",
+		"/Users/ximmus/Desktop/functions.php",
+		"/Users/ximmus/Desktop/style.css",
+		"/Users/ximmus/Desktop/courses-script.js",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/curriculum/metaboxes/curriculum-meta.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/curriculum/metaboxes/curriculum-spec.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/curriculum/curriculum.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/curriculum/curriculum.sublime-project",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/curriculum/metaboxes/simple-spec.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/curriculum/metaboxes/simple-meta.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/curriculum/metaboxes/setup.php",
+		"/Users/ximmus/Sites/wordpress/wp-config.php",
+		"/Users/ximmus/Sites/wordpress/wp-content/plugins/curriculum/functions.php",
+		"/Users/ximmus/Downloads/launch-nav-grid-alumni.php",
+		"/Users/ximmus/Downloads/launch-nav.php",
+		"/Users/ximmus/Downloads/uf-institutional-nav.php",
+		"/Users/ximmus/Sites/curriculum-guide/sass/partials/_variables.scss",
+		"/Users/ximmus/Sites/curriculum-guide/stylesheets/style.css",
+		"/Users/ximmus/Sites/aboutPage-designs/sass/style.scss",
+		"/Users/ximmus/Sites/aboutPage-designs/.gitignore",
+		"/Users/ximmus/Desktop/ximmus-block.svg",
+		"/Users/ximmus/Desktop/ximmus-block.html",
+		"/Users/ximmus/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ximmus/Desktop/new-project-checklist.TODO",
+		"/Users/ximmus/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/ximmus/Sites/svg_image_study/sass/style.scss",
+		"/Users/ximmus/Sites/svg_image_study/config.rb",
+		"/Users/ximmus/Sites/svg_image_study/sass/partials/_normalize.scss",
+		"/Users/ximmus/Sites/svg_image_study/stylesheets/style.css",
+		"/Users/ximmus/Desktop/test/index.html",
+		"/Users/ximmus/.compass/extensions/protatotype/templates/project/index.html",
+		"/Users/ximmus/.compass/extensions/protatotype/templates/project/manifest.rb",
+		"/Users/ximmus/.compass/extensions/protatotype/templates/project/jquery-2.0.3.js",
+		"/Users/ximmus/.compass/extensions/protatotype/templates/project/style.scss",
+		"/Users/ximmus/Desktop/test/sass/style.scss",
+		"/Users/ximmus/.compass/extensions/protatotype/templates/project/sass/partials/_normalize-base.scss",
+		"/Users/ximmus/.compass/extensions/readme.txt",
+		"/Users/ximmus/.compass/extensions/prototype/templates/project/manifest.rb",
+		"/Users/ximmus/Sites/css_triangles/sass/partials/_triangle.scss",
+		"/Users/ximmus/Sites/css_triangles/index.html",
+		"/Users/ximmus/Sites/css_triangles/sass/style.scss",
+		"/Users/ximmus/Sites/css_triangles/.gitignore",
+		"/Users/ximmus/Desktop/uflaw_shortcode/php/sandbox.php",
+		"/Users/ximmus/Desktop/uflaw_shortcode/uflaw-shortcode.php",
+		"/Users/ximmus/Desktop/uflaw_shortcode/config.rb",
+		"/Users/ximmus/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/ximmus/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/ximmus/Desktop/uflaw_shortcode/sass/partials/_uflui.scss",
+		"/Users/ximmus/Desktop/uflaw_shortcode/js/uflui.js",
+		"/Users/ximmus/Desktop/uflaw_shortcode/php/uflui.php",
+		"/Users/ximmus/Desktop/uflaw_shortcode/php/uflui_content.php",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/themes/ufl-law-template-wordpress/custom.css",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_subcontent.scss",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/php/subcontent.php",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/themes/ufl-law-template-wordpress/library/css/grid.css",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/uflaw-shortcode.sublime-project",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/uflaw-shortcode-style.scss",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/uflaw-shortcode.php",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_variables.scss",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_variables.scss",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_shortcodes.scss",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_popover.scss",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_ediscovery.scss",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_clinic-nav.scss",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_askbox.scss",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/themes/ufl-law-template-wordpress/header.php",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/themes/ufl-law-template-wordpress/library/php/launch/launch-nav.php",
+		"/C/Users/sumerwm/Desktop/test.html",
+		"/T/UF Law Website/htdocs/wordpress/wp-content/themes/ufl-law-template-wordpress/library/css/typography.css",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_test.scss",
+		"/X/Projects/internalPage/sass/screen.scss",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/uflaw-shortcode.php",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/themes/ufl-law-template-wordpress/page.php",
+		"/X/Projects/internalPage/index.html",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/uflaw-shortcode-style.scss",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_shortcodes.scss",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_pop-over.scss",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_edisco-navi.scss",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_clinic-navi.scss",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_askbox.scss",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/themes/ufl-law-template-wordpress/functions.php",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/plugins/iconBox/iconBox_shortcodes.php",
+		"/T/UF Law Website/test-www.law.ufl.edu/htdocs/wordpress/wp-content/themes/ufl-law-template-wordpress/iconBox_shortcodes.php",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/js/uflaw_quicktags.js",
+		"/C/xampp/htdocs/wordpress/wp-includes/js/quicktags.js",
+		"/C/xampp/htdocs/wordpress/wp-includes/js/tinymce/plugins/inlinepopups/editor_plugin_src.js",
+		"/C/xampp/htdocs/wordpress/wp-includes/js/tinymce/plugins/paste/editor_plugin_src.js",
+		"/C/xampp/htdocs/wordpress/wp-includes/js/tinymce/plugins/wplink/editor_plugin_src.js",
+		"/C/xampp/htdocs/wordpress/wp-includes/js/tinymce/plugins/wpdialogs/editor_plugin_src.js",
+		"/C/xampp/htdocs/wordpress/wp-includes/js/tinymce/plugins/wplink/editor_plugin.js",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/js/uflaw-shortcode.js",
+		"/C/xampp/htdocs/wordpress/wp-config.php",
+		"/X/Downloads/custom-quicktags/custom-quicktags.php",
+		"/X/Downloads/custom-quicktags/custom-quicktags.js",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/uflaw-shortcode.js",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/uflaw-shortcode.php",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/uflaw-shortcode-style.scss",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_variables.scss",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/php/shortcode_temp.php",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/sass/partials/_test.scss",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/test.php",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/php/test.php",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/stylesheets/uflaw-shortcode-style.css",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/config.rb",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw_shortcode/uflaw_shortcode.sublime-project",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/uflaw-shortcode/SublimeStarter.sublime-project",
+		"/C/xampp/htdocs/wordpress/config.rb",
+		"/C/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/UF_Magazine/style.css",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/UF_Magazine/test_single.php",
+		"/C/xampp/security/webdav.htpasswd",
+		"/C/xampp/security/xampp.users"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"T:\\UF Law Website",
+			"T:\\UF Law Website\\htdocs\\wordpress\\wp-content",
+			"T:\\UF Law Website\\htdocs\\wordpress\\wp-content\\themes\\ufl-law-template-wordpress",
+			"T:\\UF Law Website\\test-www.law.ufl.edu\\htdocs\\UF-LAW-WP-REDO\\wp-content\\themes\\ufl-law-template-wordpress",
+			"T:\\UF Law Website\\test-www.law.ufl.edu\\htdocs\\wordpress\\wp-content\\",
+			"T:\\UF Law Website\\test-www.law.ufl.edu\\htdocs\\wordpress\\wp-content\\themes\\ufl-law-template-wordpress",
+			"T:\\UF Law Website\\htdocs\\uflaw-dev\\wp-content\\themes\\UF_Magazine\\",
+			"T:\\UF Law Website\\htdocs\\uflaw-dev\\wp-content\\themes\\UF_Magazine\\javascripts",
+			"/wp-content/themes/UF_Magazine/javascripts/jquery.offcanvas.js",
+			"/wp-content/themes/UF_Magazine/includes",
+			"C:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\required-foundation",
+			"T:\\UF Law Website\\htdocs\\wordpress-test\\wp-content\\themes\\ufl-law-template-wordpress",
+			"<project>",
+			"T:\\UF Law Website\\htdocs\\wordpress-test\\wp-content\\themes\\ufl-law-template-wordpress\\library\\php\\widgets",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"];",
+			"foreach",
+			"floatbox",
+			"wpa",
+			"=>",
+			"<div class=\"course-description\"></div>",
+			"main",
+			"100",
+			"120",
+			"CCC",
+			"000",
+			"000000",
+			"F00",
+			"FFFFFF",
+			"PDF)",
+			"border",
+			"tabgroup",
+			"sandbox",
+			"testercode",
+			"uflui_tabs_wrapper",
+			"newArray",
+			"uflui",
+			"uflui_tabs",
+			"<!--/dynamic-cached-content-->",
+			"<!--dynamic-cached-content-->",
+			"order",
+			"subID",
+			"columns",
+			"attsID",
+			"columns",
+			"subcontent_wrapper",
+			"subcontent-wrapper",
+			"subcontent",
+			"] .'>",
+			"<img src=\"",
+			"img/img_02.jpg",
+			"columns",
+			"attribute",
+			"6",
+			"attrShortcode",
+			"Link",
+			"link",
+			"LinkButton",
+			"ed",
+			"my_custom_quicktags",
+			"basicShortcode",
+			".<",
+			".",
+			"(www.isis.ufl.edu)",
+			"www.isis.ufl.edu",
+			"July",
+			"Sunday, ",
+			"Wednesday, ",
+			"Friday, ",
+			"Tuesday, ",
+			"Monday, ",
+			" - ",
+			" \n</td>",
+			" </td>",
+			"April",
+			"- ",
+			"January",
+			"Friday, ",
+			"Monday, ",
+			"</td>",
+			"Thursday, ",
+			"December",
+			"Wednesday,",
+			"Saturday,",
+			"- ",
+			"November",
+			"Tuesday,",
+			"September",
+			"Friday,",
+			"Monday",
+			" - ",
+			"August",
+			"<td>",
+			"</tr>",
+			"<tr>",
+			"&#8630;",
+			"subcontent",
+			"textbox",
+			"feild",
+			"hurricane",
+			"pattern",
+			"edisco_navi",
+			"basicShortcode",
+			"perspective",
+			"student",
+			"Student",
+			"student",
+			"left",
+			"faculty",
+			"Student",
+			"student",
+			"407",
+			":",
+			"</a></li>",
+			"http://",
+			"weatherBox",
+			"dateBox",
+			"</div>",
+			"<div class=\"linkBox\"",
+			"-8px -29px",
+			"sunny",
+			"-205 -29",
+			"-8px -29px",
+			"sunny",
+			"-8px -29px",
+			"sunny",
+			"'Open Sans',",
+			"'Open Sans'",
+			"inst-for",
+			".launch-nav",
+			"div#menuh",
+			"launch-home",
+			"insta",
+			"bg-launch",
+			"inst",
+			"institutional",
+			"INSTITUTIONAL",
+			"institutional",
+			"'Open Sans'",
+			"ufshands",
+			"ALUMNI",
+			"alumni",
+			"Alumni"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "blankWP-theme.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
