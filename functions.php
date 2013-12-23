@@ -10,6 +10,7 @@
 \*------------------------------------*/
 
 // Load any external files you have here
+include( 'curriculum-function.php' ); // function in curriculum-template
 
 /*------------------------------------*\
 	Theme Support
