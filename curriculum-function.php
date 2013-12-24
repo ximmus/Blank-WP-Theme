@@ -2,7 +2,7 @@
 
 // build the course function - takes the course section parameter 
 function course_func($course_section) {
-    
+   
   // get the global meta
   global $curriculum_mb;
   global $courses_mb;
@@ -15,8 +15,14 @@ function course_func($course_section) {
         
     // query the course for the given value
     $args = array(
-      'post_type' => 'courses',
-      'name'      => $course['course'],
+      'post_type'   => 'courses',
+      //'name'        => $course['course'],
+      'meta_query' => array(
+        array(
+            'key'   => '_course_number', 
+            'value' => $course['course']
+          )
+        )
     );
 
     $courses = new WP_Query($args);
